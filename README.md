@@ -1,0 +1,1 @@
+This is a sample website made for [Learn Enough HTML to be Dangerous](https://www.learnenough.com/html-tutorial).
